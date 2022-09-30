@@ -1,2 +1,2 @@
-# Game-
+# Game
 audio files
