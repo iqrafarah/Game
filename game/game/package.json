@@ -1,0 +1,11 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "tryout game",
+  "main": "main.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "author": "Wouter van Ginneken",
+  "license": "ISC"
+}
